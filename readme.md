@@ -12,4 +12,4 @@ To automate the job flow, I also created a batch file and it will be triggered d
 ## Some reminder
 1. You may get banned by meta due to bot usage
 2. Always respect the robots.txt
-3. The chrome driver should always be up to date, this is done by driverautoupdate.py
+3. The chrome driver should always be up to date with your chrome.exe, this is done by driverautoupdate.py
