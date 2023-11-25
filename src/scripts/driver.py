@@ -5,8 +5,9 @@ import chromedriver_autoinstaller_fix
 
 def get_driver():
     options=webdriver.ChromeOptions()
-    options.add_argument("start-maximized")
+    options.add_argument("--headless=new")
     options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument("--window-size=1920,1080")
     prefs = {"profile.default_content_setting_values.notifications" : 2}
     options.add_experimental_option("prefs",prefs)
     options.add_experimental_option("excludeSwitches", ["enable-automation"])
