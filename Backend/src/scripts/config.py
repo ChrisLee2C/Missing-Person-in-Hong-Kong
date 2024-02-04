@@ -1,0 +1,22 @@
+BGRA=(0,0,0,0)
+CONTENT_WIDTH=864
+DATA_API_HEAD="https://api.data.gov.hk/v1/historical-archive/get-file?url=http%3A%2F%2Fwww.police.gov.hk%2Finfo%2Fappeals_public%2Fmissing_persons%2Fmp.php%3Flang%3Dtc"
+DRIVER_PATH=""
+FB_PASSWORD=""
+FB_STORY_AMOUNT_LIMIT=48
+FB_URL="https://zh-hk.facebook.com/"
+FB_USERNAME=""
+FONT_BODY_SIZE=35
+FONT_FAMILY_PATH=""
+FONT_HEADING_SIZE=90.2
+HEAD_URL="https://www.police.gov.hk"
+STABLE_VERSION_URL="https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions.json"
+STORY_HEADING="尋人啓事"
+STORY_HEADING_HEIGHT=59.1
+STORY_PATH=""
+TAGS=("國籍/性別 名字: ","特徵: ","衣服: ","失蹤日期: ","失蹤詳情: ","聯絡方法: ")
+TEXTBOX_MARGIN=203
+TEXT_BODY_POSITION=(108,1097)
+TIMESTAMP_API_HEAD="https://api.data.gov.hk/v1/historical-archive/list-file-versions?url=http%3A%2F%2Fwww.police.gov.hk%2Finfo%2Fappeals_public%2Fmissing_persons%2Fmp.php%3Flang%3Dtc"
+STORY_DIMENSION=(1920,1080)
+ZIP_DOWNLOAD_URL="https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json"
